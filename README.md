@@ -1,6 +1,6 @@
 # GAFBCustomTitleButton
 
-[![CI Status](http://img.shields.io/travis/George A/GAFBCustomTitleButton.svg?style=flat)](https://travis-ci.org/George A/GAFBCustomTitleButton)
+[![CI Status](https://img.shields.io/travis/george-gw/GAFBCustomTitleButton.svg?style=flat)](https://travis-ci.org/george-gw/GAFBCustomTitleButton)
 [![Version](https://img.shields.io/cocoapods/v/GAFBCustomTitleButton.svg?style=flat)](http://cocoapods.org/pods/GAFBCustomTitleButton)
 [![License](https://img.shields.io/cocoapods/l/GAFBCustomTitleButton.svg?style=flat)](http://cocoapods.org/pods/GAFBCustomTitleButton)
 [![Platform](https://img.shields.io/cocoapods/p/GAFBCustomTitleButton.svg?style=flat)](http://cocoapods.org/pods/GAFBCustomTitleButton)
