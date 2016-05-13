@@ -2,7 +2,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 use_frameworks!
 
 
-target 'GAFBCustomTitleButton_Tests', :exclusive => true do
+target 'GAFBCustomTitleButton_Tests' do
   pod 'GAFBCustomTitleButton', :path => '../'
 
   
