@@ -2,7 +2,7 @@
 
 [![CI Status](http://img.shields.io/travis/George A/GAFBCustomTitleButton.svg?style=flat)](https://travis-ci.org/George A/GAFBCustomTitleButton)
 [![Version](https://img.shields.io/cocoapods/v/GAFBCustomTitleButton.svg?style=flat)](http://cocoapods.org/pods/GAFBCustomTitleButton)
-##[![License](https://img.shields.io/cocoapods/l/GAFBCustomTitleButton.svg?style=flat)](http://cocoapods.org/pods/GAFBCustomTitleButton)
+```[![License](https://img.shields.io/cocoapods/l/GAFBCustomTitleButton.svg?style=flat)](http://cocoapods.org/pods/GAFBCustomTitleButton) ```
 [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/cocoapods/p/GAFBCustomTitleButton.svg?style=flat)](http://cocoapods.org/pods/GAFBCustomTitleButton)
 
