@@ -1,0 +1,27 @@
+PODS:
+  - Bolts (1.7.0):
+    - Bolts/AppLinks (= 1.7.0)
+    - Bolts/Tasks (= 1.7.0)
+  - Bolts/AppLinks (1.7.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.7.0)
+  - FBSDKCoreKit (4.11.0):
+    - Bolts (~> 1.7)
+  - GAFBCustomTitleButton (0.1.0):
+    - FBSDKCoreKit
+
+DEPENDENCIES:
+  - GAFBCustomTitleButton (from `../`)
+
+EXTERNAL SOURCES:
+  GAFBCustomTitleButton:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Bolts: a0058fa3b331c5a1e4402d534f2dae36dbff31e4
+  FBSDKCoreKit: 686ac982723a14ec9ddb85e2f81235d7706c891b
+  GAFBCustomTitleButton: 9dfbd7d6473471a2606c5265051e9007d77fc6fd
+
+PODFILE CHECKSUM: 92b6fa88163e21605102617e7ac8b0f3a92bd81b
+
+COCOAPODS: 1.0.0
